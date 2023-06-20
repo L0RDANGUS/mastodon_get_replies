@@ -1,6 +1,6 @@
 {
   "server": "social.granularperspective.com",
-  "home-timeline-length": 100,
+  "home-timeline-length": 90,
   "max-followings": 10,
   "from-notifications": 1
 }
