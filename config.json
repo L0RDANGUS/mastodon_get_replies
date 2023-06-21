@@ -1,5 +1,4 @@
 {
   "server": "social.granularperspective.com",
-  "home-timeline-length": 90,
-  "max-followings": 30
+  "home-timeline-length": 90
 }
